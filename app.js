@@ -458,7 +458,7 @@ resetBTN.addEventListener('click', () => {
     isGameOver = false
 
     massegElement.textContent = `${currentPlayer}Turn`
-    
+
 })
 
 
